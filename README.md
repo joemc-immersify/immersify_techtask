@@ -13,11 +13,9 @@ You can also use a database visualizer such as DBeaver or SQLite Studio to view 
 
 ### 1. Set up your environment:
 
-Download the repository from the following link:
+Clone this repository locally.
 
-[Repository Link](<repository_link>)
-
-An SQLite database is used, so there's no need to set up a database/server as it's managed by the file called "test.db". Once you've opened the project in your terminal, run the following commands:
+An SQLite database is used, so there's no need to set up a database/server as it's managed by the file called "shop.db". Once you've opened the project, in your terminal run the following commands:
 
 ```bash
 npm install
@@ -28,7 +26,7 @@ This should start the app running on localhost:3000.
 
 ### 2. Call existing GET requests:
 
-Confirm that the environment is set up correctly by making a GET request. Call the route "/products" using a GET request, and you should receive X results.
+Confirm that the environment is set up correctly by making a GET request. Call the route "/products" using a GET request, and you should a JSON object with 3 objects (a beanie, socks and gloves):
 
 *Note: You don’t need to do anything other than confirm that it's working.*
 
