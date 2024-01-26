@@ -7,7 +7,7 @@ This task is designed to test your understanding of Node.js, TypeScript, and the
 - NodeJS
 - Postman (or a similar API testing tool)
 
-You can also use a database visualizer such as DBeaver or SQLite Studio to view your database. Personally, SQLite Studio was used and found to be easy to set up. The database represents a simple clothing shop with tables for Customers and Products.
+You can also use a database visualizer to view your database. Personally, SQLite Studio and found to be easy to set up. The database represents a simple clothing shop with tables for Customers and Products.
 
 ## The Task:
 
@@ -45,3 +45,7 @@ Create a new POST route for adding an entry to your newly made review table. You
 ### 6. Make a GET route [5 marks]:
 
 Develop a GET route that retrieves all reviews of a certain rating for a given product. Have it return the review, customer information, and product information.
+
+### Submit your code:
+
+Please send us your code in the form of a link to your github or as a zipped file. Email it to joemccleary@immersifyeducation.com and cc in the recruiter as well.
