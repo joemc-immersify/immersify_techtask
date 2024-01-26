@@ -48,4 +48,4 @@ Develop a GET route that retrieves all reviews of a certain rating for a given p
 
 ### Submit your code:
 
-Please send us your code in the form of a link to your github or as a zipped file. Email it to joemccleary@immersifyeducation.com and cc in the recruiter as well.
+Please send us your code in the form of a link to your repository or as a zipped file. Email it to joemccleary@immersifyeducation.com and cc in the recruiter as well.
