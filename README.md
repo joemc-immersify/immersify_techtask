@@ -15,7 +15,7 @@ You can also use a database visualizer such as DBeaver or SQLite Studio to view 
 
 Clone this repository locally.
 
-An SQLite database is used, so there's no need to set up a database/server as it's managed by the file called "shop.db". Once you've opened the project, in your terminal run the following commands:
+An SQLite database is used, so there's no need to set up a database/server as it's managed by the file called "shop.db". Once you've opened the project, in your terminal navigate to the project directory and run the following commands:
 
 ```bash
 npm install
