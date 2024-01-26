@@ -30,18 +30,18 @@ Confirm that the environment is set up correctly by making a GET request. Call t
 
 *Note: You don’t need to do anything other than confirm that it's working.*
 
-### 3. Alter an existing route:
+### 3. Alter an existing route [3 marks]:
 
 The POST route "/purchaseProduct/:productid" in the "product.ts" file currently finds the matching product and returns that product. Modify it so that it adjusts the stock quantity when the route is called.
 
-### 4. Make a new table:
+### 4. Make a new table [5 marks]:
 
 Create a new table in the database called "Review." Its purpose is for users to review the items they have purchased. Include columns for the text content of the review and a numerical rating (e.g., up to 5 stars). It should also link to the customer and product tables.
 
-### 5. Make a new POST route:
+### 5. Make a new POST route [5 marks]:
 
 Create a new POST route for adding an entry to your newly made review table. You should be able to pass in a product id, customer id, review text body, and numerical rating into the request, populating the database with this information.
 
-### 6. Make a GET route:
+### 6. Make a GET route [5 marks]:
 
 Develop a GET route that retrieves all reviews of a certain rating for a given product. Have it return the review, customer information, and product information.
