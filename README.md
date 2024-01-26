@@ -26,7 +26,7 @@ This should start the app running on localhost:3000.
 
 ### 2. Call existing GET requests:
 
-Confirm that the environment is set up correctly by making a GET request. Call the route "/products" using a GET request, and you should a JSON object with 3 objects (a beanie, socks and gloves):
+Confirm that the environment is set up correctly by making a GET request. Call the route "/products" using a GET request, and you should have an array with with 3 objects in (a beanie, socks and gloves):
 
 *Note: You don’t need to do anything other than confirm that it's working.*
 
