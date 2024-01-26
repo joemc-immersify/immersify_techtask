@@ -7,7 +7,7 @@ This task is designed to test your understanding of Node.js, TypeScript, and the
 - NodeJS
 - Postman (or a similar API testing tool)
 
-You can also use a database visualizer to view your database. Personally, SQLite Studio and found to be easy to set up. The database represents a simple clothing shop with tables for Customers and Products.
+You can also use a database visualizer to view your database. Personally, SQLite Studio was used and found to be easy to set up. The database represents a simple clothing shop with tables for Customers and Products.
 
 ## The Task:
 
