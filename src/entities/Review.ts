@@ -18,4 +18,11 @@ export class Review {
 
     @ManyToOne(() => Product)
       product: Product
+
+    constructor(product: Product, customer: Customer, review: string, rating: number) {
+      this.product = product;
+      this.customer = customer;
+      this.review = review;
+      this.rating = rating;
+  }     
 }
